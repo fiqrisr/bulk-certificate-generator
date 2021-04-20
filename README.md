@@ -20,7 +20,7 @@ python main.py
 
 ## Configuration
 
-Check ```config.cfg``` (self-explanatory).
+See ```config.cfg``` (self-explanatory).
 
 ## Contributing
 
@@ -29,3 +29,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+## Attributions
+
+Certificate template in this project is designed by [Freepik](http://www.freepik.com).
