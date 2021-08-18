@@ -30,6 +30,8 @@ def main():
     names, names_count = get_name_list(name_list)
 
     for line, name in enumerate(names):
+        name = name.title()
+
         logging.info(
             f"({line + 1}/{names_count}) Generate {name}'s certificate")
 
