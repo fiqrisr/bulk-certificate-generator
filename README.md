@@ -12,7 +12,7 @@ pip install Pillow
 
 ## Usage
 
-Put a list of names in name_list.txt then run the script.
+Put list of names in `name_list.txt` then run the script.
 
 ```bash
 python main.py
@@ -20,7 +20,7 @@ python main.py
 
 ## Configuration
 
-See ```config.cfg``` (self-explanatory).
+See `config.cfg` (self-explanatory).
 
 ## Contributing
 
